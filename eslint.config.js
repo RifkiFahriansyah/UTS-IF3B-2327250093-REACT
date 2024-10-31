@@ -1,4 +1,4 @@
-import js from '@eslint/js'
+import js from '.pnpm/@eslint+js@9.13.0/node_modules/@eslint/js'
 import globals from 'globals'
 import react from 'eslint-plugin-react'
 import reactHooks from 'eslint-plugin-react-hooks'
